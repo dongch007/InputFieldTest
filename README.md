@@ -1,5 +1,6 @@
 # InputFieldTest
 Unity InputField bug 2017.4.40 on android
+2017.4.21/2017.4.34 no this problem
 
 
 1. Click InputField : Keyboard show
